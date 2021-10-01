@@ -5,6 +5,9 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+//interpolação
 export class AppComponent {
-  title = 'course-manager';
+  title = 'course-manager'
+
+  name: string = 'Eduardo Silva'
 }
