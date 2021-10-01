@@ -9,6 +9,5 @@ import { Component } from '@angular/core';
 //interpolação
 export class AppComponent {
   title = 'course-manager'
-
   name: string = 'Eduardo Silva'
 }
